@@ -1,7 +1,23 @@
-.section {
+.section1 {
   width:33%;
   float:left;
+  background-color: yellow;
 }
+  .section2 {
+    width:33%;
+    float:left;
+    background-color: red;
+}
+  .section3 {
+    width:33%;
+    float:left;
+    background-color: blue;
+}
+
+
+
+
+
 p {
   width:70%;
 }
